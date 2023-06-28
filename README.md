@@ -1,4 +1,4 @@
-# Slack Progress Notifier
+# DM Bot
 
 This bot monitors a Google Sheet for students' progress in a particular subject and sends notifications to the students via Slack if they have not made any progress.
 
