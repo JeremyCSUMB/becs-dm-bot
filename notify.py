@@ -42,4 +42,6 @@ def notify_users_about_progress(slack_bot_token, sheet_id, subject):
 # Usage
 SHEET_ID = 'your_sheet_id'
 SUBJECT = 'your_subject'
-notify_users_about_progress(SLACK_BOT_TOKEN, SHEET_ID, SUBJECT)
+
+#notify_users_about_progress(SLACK_BOT_TOKEN, SHEET_ID, SUBJECT)
+notify_users_about_progress(SLACK_BOT_TOKEN, '1mHOlWPpbhmEqYbiMrAUqoqP75w8Y4zW08_HvX5p_Mpg', 'programming')
